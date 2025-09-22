@@ -36,4 +36,6 @@ app.use((request, response, next)=>{
 
 //ENDPOINTS
 
-app.get('/v1/')
+app.get('/v1/estados', function (request, response) {
+    
+})
